@@ -2,4 +2,4 @@
     name: closure-linter
     entry: closure-linter
     language: python
-    files: \.py$
+    files: \.js$
