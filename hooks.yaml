@@ -1,5 +1,5 @@
 -   id: closure-linter
     name: closure-linter
-    entry: closure-linter
+    entry: gjslint
     language: python
     files: \.js$
