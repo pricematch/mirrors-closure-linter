@@ -1,0 +1,10 @@
+-   id: closure-linter
+    name: closure-linter
+    entry: gjslint
+    language: python
+    files: \.js$
+-   id: closure-linter-fixer
+    name: closure-linter-fixer
+    entry: fixjsstyle
+    language: python
+    files: \.js$
